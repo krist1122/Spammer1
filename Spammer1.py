@@ -3,8 +3,8 @@ import os
 from aiohttp import web
 from telegram import Bot, LinkPreviewOptions
 
-BOT_TOKEN = "8929884157:AAH2_l-iYqOOTUmMayvrSIIPGmEQba64sOk"
-CHANNEL_ID = "@SliderModMenuMlbb"
+BOT_TOKEN = "8905442520:AAG1cKiYotsIqFLoTGwaapBOHITLGqlLyIo"
+CHANNEL_ID = "@SliderModMenuCodm"
 
 bot = Bot(token=BOT_TOKEN)
 
