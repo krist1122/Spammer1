@@ -9,7 +9,7 @@ CHANNEL_ID = "@SliderModMenuMlbb"
 bot = Bot(token=BOT_TOKEN)
 
 # 1. TEMPLATE PARA SA CODM (Inuna ito)
-CODM_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/380">Latest Update:
+CODM_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuCodm/631">Latest Update:
 Call of Duty v1.6.56
 Injector v2.7.7</a>
 
