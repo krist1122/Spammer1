@@ -11,7 +11,7 @@ bot = Bot(token=BOT_TOKEN)
 # 1. TEMPLATE PARA SA CODM (Inuna ito)
 CODM_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuCodm/631">Latest Update:
 Call of Duty v1.6.56
-Injector v2.7.7</a>
+Injector v2.7.8</a>
 
 NEED KEY LOGIN ??? :
 For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_maganda">𝑷𝒉𝒊𝒂 𝑭𝒆𝒍𝒊𝒄𝒊𝒂</a>
