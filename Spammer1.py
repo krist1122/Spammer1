@@ -8,7 +8,7 @@ CHANNEL_ID = "@SliderModMenuCodm"
 
 bot = Bot(token=BOT_TOKEN)
 
-# 1. TEMPLATE PARA SA CODM (Inuna ito)
+# 1. TEMPLATE PARA SA CODM
 CODM_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuCodm/631">Latest Update:
 Call of Duty v1.6.56
 Injector v2.7.8</a>
@@ -28,11 +28,19 @@ For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_
 
 No Free 🫪 GETS!?</i></blockquote>"""
 
-# Dalawang templates na lang at inuna ang CODM bago MLBB
-ALL_MESSAGES = [CODM_MESSAGE, MLBB_MESSAGE]
+# 3. TEMPLATE PARA SA PROMO (Bagong dagdag)
+PROMO_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuCodm/745">Promo Available :
+For Call of Duty Garena / Global
+Discounted price : up-to 50%</a>
+
+AVAIL NOW! :
+For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_maganda">Phia Felicia</a></i></blockquote>"""
+
+# Tatlong templates na iikot sa loop
+ALL_MESSAGES = [CODM_MESSAGE, MLBB_MESSAGE, PROMO_MESSAGE]
 
 async def loop_spam():
-    print("Spammer bot started (Alternating CODM and MLBB)...")
+    print("Spammer bot started (Alternating CODM, MLBB, and Promo)...")
     index = 0
     
     while True:
@@ -50,7 +58,7 @@ async def loop_spam():
             print(f"Message sent! (Index: {index} | ID: {sent_message.message_id})")
 
             # 2. BIBILANG NG ORAS BAGO BURAHIN (3600 seconds = 1 hour)
-            await asyncio.sleep(3600)          
+            await asyncio.sleep(10)          
 
             # 3. BURAHIN PAGKATAPOS
             await bot.delete_message(
