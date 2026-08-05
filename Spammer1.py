@@ -21,7 +21,7 @@ For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_
 # 2. TEMPLATE PARA SA MLBB UPDATE
 MLBB_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/6270">Latest Update:
 Mobile Legends: Bang Bang
-v2.1.88.12027 || Mod v3.1.5</a>
+v2.1.95.12053 || Mod v3.1.6</a>
 
 NEED KEY LOGIN ??? :
 For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_maganda">Phia Felicia</a>
