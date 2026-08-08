@@ -16,7 +16,7 @@ Global Injector v1.2.5</a>
 NEED KEY LOGIN ??? :
 For inquiries and availment, send a direct message ~ <a href="https://t.me/phia_maganda">𝑷𝒉𝒊𝒂 𝑭𝒆𝒍𝒊𝒄𝒊𝒂</a>
 
-<a href="https://slider-info-slidermod-register-deviceid.onrender.com/free">Try Free Key Here:</a></i></blockquote>"""
+<a href="https://slidermodmenucodm-registerdeviceid-garena.onrender.com/free">Try Trial Key Here:</a></i></blockquote>"""
 
 # 2. TEMPLATE PARA SA MLBB UPDATE
 MLBB_MESSAGE = """<blockquote expandable="true"><i><a href="https://t.me/SliderModMenuMlbb/6270">Latest Update:
